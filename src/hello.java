@@ -1,3 +1,3 @@
 public class hello {
-    // Prueba1
+    // Prueba
 }
